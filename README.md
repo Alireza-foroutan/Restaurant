@@ -8,7 +8,7 @@
 
 - Created - 4/25/2024
  
-- Technologies Used - Html , Css 
+- Technologies Used - Html , Css  
  
 - Role - Frontend
 
