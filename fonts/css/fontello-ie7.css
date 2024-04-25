@@ -1,0 +1,20 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+
+  /* fix buttons height */
+  line-height: 1em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+.icon-beer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-food { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-cup { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+.icon-coffee { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
+.icon-fast-food { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;&nbsp;'); }
+.icon-coffee-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0f4;&nbsp;'); }
+.icon-food-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0f5;&nbsp;'); }
+.icon-birthday { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1fd;&nbsp;'); }

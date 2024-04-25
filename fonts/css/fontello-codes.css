@@ -1,0 +1,9 @@
+
+.icon-beer:before { content: '\e800'; } /* '' */
+.icon-food:before { content: '\e801'; } /* '' */
+.icon-cup:before { content: '\e802'; } /* '' */
+.icon-coffee:before { content: '\e803'; } /* '' */
+.icon-fast-food:before { content: '\e815'; } /* '' */
+.icon-coffee-1:before { content: '\f0f4'; } /* '' */
+.icon-food-1:before { content: '\f0f5'; } /* '' */
+.icon-birthday:before { content: '\f1fd'; } /* '' */
